@@ -1,6 +1,5 @@
 # Information Security Repository
 
-Welcome to the Reboare/Booj Security wiki!
 
 This was a fork of the [https://github.com/xapax/security](https://github.com/xapax/security) and [https://github.com/aranisec/security](https://github.com/aranisec/security) repositories, so the majority of the work in here is due to them, but I'll be adding and editing as I go through, so the majority of it from here on out will be my own work.
 
